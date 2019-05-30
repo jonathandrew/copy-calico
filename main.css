@@ -1,0 +1,35 @@
+
+p{font-size:70px;
+text-align: center;
+margin-top:50px;
+color:red;
+
+}
+
+
+h6{font-size:12px;
+display:inline;
+text-decorat
+
+}
+
+h6:nth-child(3){
+margin-left: 85%;
+
+}
+
+div:nth-child(3){
+text-align:center;
+
+}
+
+
+ul{
+    text-align:center;
+}
+li{
+    display:inline;
+    border: 1px solid grey;
+    background-color: lightgrey;
+    font-size:12px;
+}
